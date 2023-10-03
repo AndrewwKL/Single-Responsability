@@ -1,0 +1,38 @@
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.exe
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\bin\Debug\net6.0\policy.json
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\bin\Debug\net6.0\samplePolicies.json.txt
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.deps.json
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.runtimeconfig.json
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.dll
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.pdb
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.AssemblyReference.cache
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.AssemblyInfoInputs.cache
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.AssemblyInfo.cs
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.CoreCompileInputs.cache
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.CopyComplete
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.dll
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\refint\ArdalisRating.dll
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.pdb
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.genruntimeconfig.cache
+C:\Users\Natucha\Downloads\SolidSample-master\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ref\ArdalisRating.dll
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.exe
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\bin\Debug\net6.0\policy.json
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\bin\Debug\net6.0\samplePolicies.json.txt
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.deps.json
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.runtimeconfig.json
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.dll
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\bin\Debug\net6.0\ArdalisRating.pdb
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.csproj.CopyComplete
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.dll
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\refint\ArdalisRating.dll
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.pdb
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ArdalisRating.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\SolidSample-master 1\SolidSample-master\ArdalisRating\obj\Debug\net6.0\ref\ArdalisRating.dll
